@@ -1,0 +1,11 @@
+<Bindings>
+   <Binding name="TOOLTIPNOTES_SET" header="TOOLTIPNOTES">
+      _G.SlashCmdList["TNOTE"]("set")
+   </Binding>
+   <Binding name="TOOLTIPNOTES_SHOW">
+      _G.SlashCmdList["TNOTE"]("show")
+   </Binding>
+   <Binding name="TOOLTIPNOTES_SAY">
+      _G.SlashCmdList["TNOTE"]("say")
+   </Binding>
+</Bindings>

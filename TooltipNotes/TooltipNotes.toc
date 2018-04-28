@@ -1,0 +1,10 @@
+## Interface: 20400
+## Title: TooltipNotes
+## Author: Pyralis
+## Version: 1.0
+## Notes: Set tooltip notes for players or mobs, and record and show spells that mobs use.
+## SavedVariables: TooltipNotesSave
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+TooltipNotes.lua
